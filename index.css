@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: Maven Pro;
+  src: url(e:\Coursera\MavenPro-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family: Markazi Text;
+  src: url(e:\Coursera\MarkaziText-VariableFont_wght.ttf);
+}
